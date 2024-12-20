@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 start kali 
 
-![image](https://github.com/user-attachments/assets/a17b4b5e-cb95-42c6-83ba-e6ef1f6ad0fd)
+
 // import java.util.Timer;
 // import java.util.TimerTask;
 // import javax.swing.*;
